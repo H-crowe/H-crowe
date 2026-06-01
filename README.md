@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hossam Mohamed
 
-<!--
-**H-crowe/H-crowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | Backend Engineer | Builder of real-world systems
 
-Here are some ideas to get you started:
+I focus on building scalable backend systems, APIs, and full-stack SaaS applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I build
+- Inventory & business systems
+- Backend-heavy applications
+- REST APIs & authentication systems
+- Cloud-based applications
+
+## 🧠 Tech Stack
+Node.js • React • Flutter • Python • Firebase • AWS
+
+## 📌 Featured Projects
+- Vytrox InventoryPro
+- Vytrox Expense Tracker
+
+## 📫 Contact
+LinkedIn: [www.linkedin.com/in/hossam-mohamed-416aab146]
