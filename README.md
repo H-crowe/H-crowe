@@ -1,20 +1,49 @@
-Hossam Mohamed  
-Full-Stack & Web Developer | Backend Engineer | Builder of production-ready systems
+# Hossam Mohamed 👋
 
-I specialize in building modern web applications and scalable backend systems, with a focus on APIs, system design, and real-world business logic.
+**Full-Stack & Web Developer · Backend Engineer**
 
-🚀 What I build
-• Web applications & full-stack systems  
-• Backend-heavy applications & APIs  
-• Authentication & business logic systems  
-• SaaS and cloud-based products  
+Building modern web applications, scalable backend systems, and practical software products with a focus on APIs, system design, authentication, and real-world business logic.
 
-🧠 Tech Stack
-Node.js • React • Flutter • Python • Firebase • AWS
+---
 
-📌 Featured Projects
-• Vytrox InventoryPro  
-• Vytrox Expense Tracker  
+### 🚀 What I Build
 
-📫 Contact
-LinkedIn: www.linkedin.com/in/hossam-mohamed-416aab146
+**Web & Full-Stack**
+Web applications · SaaS · Business systems
+
+**Backend & Infrastructure**
+APIs · Authentication · WebSockets · Automation
+
+**Mobile**
+Flutter · Kotlin · Android
+
+**Web3 & Security**
+EVM · Solidity · Web3.js · Zero-Knowledge Proofs
+
+---
+
+### 🧠 Tech Stack
+
+**Frontend & Mobile**
+React · Flutter · JavaScript · TypeScript · Vite · Kotlin
+
+**Backend & APIs**
+Node.js · Express · Python · REST APIs · WebSockets
+
+**Cloud & Services**
+Firebase · AWS
+
+**Web3 & Security**
+Solidity · EVM · Web3.js · Zero-Knowledge Proofs
+
+---
+
+### 📱 Published App
+
+**Vytrox Expense Tracker** · [Google Play](https://play.google.com/store/apps/details?id=com.vytroxexpense)
+
+---
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/hossam-mohamed-416aab146/) · [Telegram](https://t.me/cr0wel)
